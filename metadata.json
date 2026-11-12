@@ -1,0 +1,7 @@
+{
+  "name": "BiteMatch · Smart Food Recommendations & Taste Club",
+  "description": "End decision fatigue with instant, hyper-personalized food recommendations in under 10 seconds. Discover hidden gems, earn meal streak rewards, and unlock exclusive dining perks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
